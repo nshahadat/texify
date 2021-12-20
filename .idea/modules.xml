@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AITesting/.idea/AITesting.iml" filepath="$PROJECT_DIR$/../AITesting/.idea/AITesting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Badboi/.idea/Badboi.iml" filepath="$PROJECT_DIR$/../Badboi/.idea/Badboi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Zero/.idea/Zero.iml" filepath="$PROJECT_DIR$/../Zero/.idea/Zero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../joh/.idea/joh.iml" filepath="$PROJECT_DIR$/../joh/.idea/joh.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/texify.iml" filepath="$PROJECT_DIR$/.idea/texify.iml" />
     </modules>
   </component>
